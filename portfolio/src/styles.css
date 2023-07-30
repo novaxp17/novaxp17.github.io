@@ -7,8 +7,8 @@
 }
 
 img {
-    width: 100%;
-    height: 100%;
+    width: 80%;
+    height: 80%;
 }
 
 /* -------- content sections -------- */
@@ -32,6 +32,9 @@ img {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+.pad-after {
+    padding-bottom: 125px;
 }
 
 /* -------- Navbar -------- */
